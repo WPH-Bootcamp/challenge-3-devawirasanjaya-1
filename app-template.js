@@ -1,13 +1,14 @@
 // ============================================
 // HABIT TRACKER CLI - CHALLENGE 3
 // ============================================
-// NAMA: [Isi nama Anda]
-// KELAS: [Isi kelas Anda]
-// TANGGAL: [Isi tanggal pengerjaan]
+// NAMA: Deva Wira Sanjaya
+// KELAS: Kelas Repetisi Front End Developer
+// TANGGAL: 5 November 2025
 // ============================================
 
 // TODO: Import module yang diperlukan
 // HINT: readline, fs, path
+
 
 
 
@@ -19,6 +20,9 @@
 
 
 // TODO: Setup readline interface
+
+// helper: jadikan rl.question promisified
+
 
 
 
@@ -82,7 +86,9 @@
 
 
 
+
 // TODO: Buat function displayMenu()
+
 
 
 

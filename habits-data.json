@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "name": "Guest",
+    "joinDate": "2025-11-06T08:55:54.338Z",
+    "totalHabits": 0,
+    "completedThisWeek": 0
+  },
+  "habits": [
+    {
+      "id": "mhn6z94aw2gacdtsqae",
+      "name": "Minum Air 8 Gelas",
+      "targetFrequency": 7,
+      "completions": [
+        "2025-11-09T17:00:00.000Z"
+      ],
+      "createdAt": "2025-11-06T08:55:54.346Z"
+    },
+    {
+      "id": "mhn6z94cxvkb3tfj20s",
+      "name": "Baca Buku 30 Menit",
+      "targetFrequency": 5,
+      "completions": [
+        "2025-11-09T17:00:00.000Z"
+      ],
+      "createdAt": "2025-11-06T08:55:54.348Z"
+    },
+    {
+      "id": "mhn6z94cnre6p85x9q",
+      "name": "Jalan 5.000 langkah",
+      "targetFrequency": 6,
+      "completions": [
+        "2025-11-09T17:00:00.000Z"
+      ],
+      "createdAt": "2025-11-06T08:55:54.348Z"
+    }
+  ]
+}
